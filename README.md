@@ -1,4 +1,4 @@
-# Linear_regression
+# Machine Learning Algorithms
 Have fun with this algorithm 
 
 
